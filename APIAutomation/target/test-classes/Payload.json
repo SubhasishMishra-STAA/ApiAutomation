@@ -1,0 +1,27 @@
+{
+  "instructor" : "Subhasish",
+  "url" : "softwaretestingandautomation.com",
+  "services" : "Software Testing",
+  "expertise" : "Testing",
+  "courses" : {
+    "webAutomation" : [ {
+      "courseTitle" : "Selenium",
+      "price" : 4000
+    }, {
+      "courseTitle" : "Protractor",
+      "price" : 5000
+    } ],
+    "apiAutomation" : [ {
+      "courseTitle" : "RestAssure",
+      "price" : 5000
+    }, {
+      "courseTitle" : "SOAP API Automation",
+      "price" : 3000
+    } ],
+    "mobileAutomation" : [ {
+      "courseTitle" : "Appium",
+      "price" : 5000
+    } ]
+  },
+  "linkedIn" : "linkedinId"
+}
