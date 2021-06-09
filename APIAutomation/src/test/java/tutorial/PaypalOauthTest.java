@@ -13,8 +13,8 @@ import junit.framework.Assert;
 
 public class PaypalOauthTest {
 	static String access_token;
-	static String clientId="AQE3fYC0PjbO4umyO6rfYA6G_wla6foTNeOcUF9eWrpos6RZ5e_SPhE5gIADUsUi_qCDyirv6yPG7vIh";
-	static String secret="EJv65UlrDKIU1hYfms4d41p1idI_NQKME4S9QZMH-21vuWbRXHo4Nt_d4xkyAdYGMsLq3bViUHVJtGjO";
+	static String clientId="GiveURClientID";
+	static String secret="GiveYourSecret";
 	@Test(priority=1)
 	public void getAccessToken() {
 		
